@@ -1,3 +1,4 @@
+import os
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
 from crewai_tools import SerperDevTool
@@ -78,6 +79,11 @@ class StockPicker():
     @crew
     def crew(self) -> Crew:
         """Creates the StockPicker crew"""
+        os.environ["OPENAI_API_KEY"] = os.getenv("OPENROUTER_API_KEY", "")
+        os.environ["CHROMA_OPENAI_API_KEY"] = os.getenv("OPENROUTER_API_KEY", "")
+        os.environ["OPENAI_API_BASE"] = "https://openrouter.ai/api/v1"
+        os.environ["OPENAI_BASE_URL"] = "https://openrouter.ai/api/v1"
+        os.environ["CHROMA_OPENAI_API_BASE"] = "https://openrouter.ai/api/v1"
 
         manager = Agent(
             config=self.agents_config['manager'],
@@ -102,8 +108,10 @@ class StockPicker():
                 storage = RAGStorage(
                         embedder_config={
                             "provider": "openai",
+                            "api_key": os.getenv("OPENROUTER_API_KEY"),
+                            "api_base": "https://openrouter.ai/api/v1",
                             "config": {
-                                "model": 'text-embedding-3-small'
+                                "model": 'openai/text-embedding-3-small'
                             }
                         },
                         type="short_term",
@@ -114,8 +122,10 @@ class StockPicker():
                 storage=RAGStorage(
                     embedder_config={
                         "provider": "openai",
+                        "api_key": os.getenv("OPENROUTER_API_KEY"),
+                        "api_base": "https://openrouter.ai/api/v1",
                         "config": {
-                            "model": 'text-embedding-3-small'
+                            "model": 'openai/text-embedding-3-small'
                         }
                     },
                     type="short_term",

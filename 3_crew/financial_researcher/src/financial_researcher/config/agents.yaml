@@ -7,8 +7,8 @@ researcher:
     You're a seasoned financial researcher with a talent for finding
     the most relevant information about {company}.
     Known for your ability to find the most relevant
-    information and present it in a clear and concise manner.
-  llm: openai/gpt-4o-mini
+    information and present it in a clear and concise manner. Don't forget that today is 2026.
+  llm: openrouter/openai/gpt-4o-mini
 
 analyst:
   role: >
@@ -20,5 +20,5 @@ analyst:
     You're a meticulous, skilled analyst with a background in financial analysis
     and company research. You have a talent for identifying patterns and extracting
     meaningful insights from research data, then communicating
-    those insights through well crafted reports.
-  llm: openai/gpt-4o-mini
+    those insights through well crafted reports.  Don't forget that today is 2026.
+  llm: openrouter/google/gemini-3.5-flash

@@ -1,27 +1,29 @@
 # Banoffee Pie Recipe
 
-## Ingredients
-- 4 bananas, sliced
-- 394g caramel or dulce de leche
+## Ingredients:
+- 250g digestive biscuits
+- 100g butter, melted
+- 397g can of condensed milk
+- 175g caster sugar
+- 1 tsp vanilla extract
 - 300ml double cream
-- Dark chocolate (optional)
+- 3 ripe bananas
+- Cocoa powder or chocolate shavings, for decoration
 
-### For the pastry
-- 100g butter, chilled (plus extra for greasing)
-- 200g plain flour
-- 1 medium egg, separated
-- 1 tbsp golden caster sugar
+## Instructions:
+1. **Make the base:** 
+   - Preheat your oven to 180°C (fan 160°C).
+   - Blitz the digestive biscuits in a food processor until fine crumbs.
+   - Mix with melted butter and press into the bottom of a 20cm loose-bottomed cake tin. Bake for 10 minutes, then leave to cool.
 
-## Method
-1. Make the pastry case: Put butter and flour in a food processor and pulse until it resembles fresh breadcrumbs. Add egg yolk and sugar, pulse again, then add very cold water a tbsp at a time until dough comes together.
-2. Knead dough gently by hand until smooth ball forms. Wrap in cling film and chill for 30 minutes.
-3. Heat oven to 190C/170C fan/gas 4. Grease a 23cm loose bottomed fluted tart tin. Roll out pastry and line the tin, leaving about 0.5cm of pastry over the edge and snip to length.
-4. Line base with baking parchment and weigh down with baking beans/uncooked rice. Bake for 15 minutes. Remove parchment and beans, brush pastry with beaten egg white and bake another 15-20 minutes until golden and cooked. Cool completely.
-5. Spread half the caramel on the pastry case, layer bananas on top, then cover with remaining caramel. Chill in fridge.
-6. Whip the cream until thick and spoon over the tart. Grate dark chocolate over to garnish if using.
+2. **Prepare the caramel:** 
+   - For the caramel, place the condensed milk, sugar, and vanilla extract in a saucepan over low heat. Cook for about 10 minutes, stirring constantly, until thick and caramel colored. 
+   - Pour over the biscuit base and chill for at least 2 hours until set.
 
-## Notes
-- Serves 8-10.
-- Prep time: 30 minutes.
-- Cook time: 30-35 minutes.
-- An easy family favorite. Recommended to serve with a generous dollop of cream.
+3. **Make the cream topping:** 
+   - Whip the double cream until it forms soft peaks. 
+   - Slice the bananas and layer over the caramel. Top with whipped cream and smooth the surface.
+   - Decorate with cocoa powder or chocolate shavings.
+
+4. **Serve:** 
+   - Remove the pie from the tin and slice to serve. Enjoy your delicious banoffee pie!
